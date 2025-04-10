@@ -1,11 +1,11 @@
 # cibersecurity-desafio-phishing
 Phishing para captura de senhas
 
-# Ferramentas:
+#  ⚒️ Ferramentas:
  - Kali Linux
  - setoolkit
 
-# Comandos:
+# 👨‍💻 Comandos:
 - Acesso root: sudo su
 - Iniciando o setoolkit: setoolkit
 - Tipo de ataque: Social-Engineering Attacks
